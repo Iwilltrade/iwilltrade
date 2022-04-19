@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-- 🔭 I’m currently working on **Secret Project**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **everything** 🤯
 
 - 💬 Ask me about **programming, fitness or music**
 
