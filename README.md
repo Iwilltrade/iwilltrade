@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **everything** 🤯
 
-- 💬 Ask me about **programming, fitness or music**
+- 💬 Ask me about **programming, design, fitness or music**
 
 - 📫 How to reach me **peter.baranec.devtech@gmail.com**
 
